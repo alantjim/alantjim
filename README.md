@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alan T Jim</h1>
 <h3 align="center">SHIP GOOD CODE</h3>
-<h2 align="center"><img  width="500" src="https://media.giphy.com/media/ESWLkcvRgYkcz8Ufpm/giphy.gif">
+<h2 align="center"><img  width="500" src="https://media.giphy.com/media/oLrJtytMXxkNJTfJaE/giphy-downsized-large.gif">
 <! img width="2000" src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png">
 <h4 width="100"> 🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally.<br>
 
